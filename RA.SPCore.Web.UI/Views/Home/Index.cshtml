@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<RA.SPCore.Lib.BE.Login>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <form method="post">
+        <input type="text" name="searchString" />
+        <input type="submit" value="Search" />
+    </form>
+
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                  <th scope="col">OID</th>
+                  <th scope="col">Username</th>
+                  <th scope="col">FirstName</th>
+                  <th scope="col">LastName</th>
+                  <th scope="col">Status</th>
+                  <th scope="col">Email1</th>
+                  <th scope="col">Email2</th>
+                </tr>
+             </thead>
+
+            <tbody>
+                @foreach(var item in Model)
+                {
+                <tr>
+                    <td>@item.OID</td>
+                    <td>@item.Username</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Status</td>
+                    <td>@item.EmailOne</td>
+                    <td>@item.EmailTwo</td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+
+</div>

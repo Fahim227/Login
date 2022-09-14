@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
+        "projectName": "RA.SPCore.Lib.BE",
+        "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
+        "projectName": "RA.SPCore.Lib.BLL",
+        "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              },
+              "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
+                "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
+        "projectName": "RA.SPCore.Lib.DAL",
+        "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
+        "projectName": "RA.SPCore.Web.API",
+        "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              },
+              "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
+                "projectPath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

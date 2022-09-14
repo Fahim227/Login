@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RA.SPCore.Lib.BE/1.0.0": {
+        "runtime": {
+          "RA.SPCore.Lib.BE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RA.SPCore.Lib.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

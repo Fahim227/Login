@@ -1,0 +1,17 @@
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.BLL.deps.json
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.BLL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.BLL.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.BE.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.DAL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\bin\Debug\net6.0\RA.SPCore.Lib.DAL.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.csproj.AssemblyReference.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.AssemblyInfoInputs.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.AssemblyInfo.cs
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.csproj.CoreCompileInputs.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.csproj.CopyComplete
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\refint\RA.SPCore.Lib.BLL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\RA.SPCore.Lib.BLL.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BLL\obj\Debug\net6.0\ref\RA.SPCore.Lib.BLL.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5xhnxIqBoIPE/X2c3UBcIcCDi82727nGpd52US2nx0BrpbY1vDk69w3tNLH45hedT/Fo+c+aByjGcRY9yTvmoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\RA.SPCore.Web.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SECL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

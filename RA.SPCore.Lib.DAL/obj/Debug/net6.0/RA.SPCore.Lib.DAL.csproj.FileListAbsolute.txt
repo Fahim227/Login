@@ -1,0 +1,15 @@
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\bin\Debug\net6.0\RA.SPCore.Lib.DAL.deps.json
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\bin\Debug\net6.0\RA.SPCore.Lib.DAL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\bin\Debug\net6.0\RA.SPCore.Lib.DAL.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\bin\Debug\net6.0\RA.SPCore.Lib.BE.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\bin\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.csproj.AssemblyReference.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.AssemblyInfo.cs
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.csproj.CopyComplete
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\refint\RA.SPCore.Lib.DAL.dll
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\RA.SPCore.Lib.DAL.pdb
+C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.DAL\obj\Debug\net6.0\ref\RA.SPCore.Lib.DAL.dll

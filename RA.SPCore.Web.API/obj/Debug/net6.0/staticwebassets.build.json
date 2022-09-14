@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iF6j/uwtqKzARUJSP4swLItLTO8Uq+hxpi9pYgkbCeI=",
+  "Source": "RA.SPCore.Web.API",
+  "BasePath": "_content/RA.SPCore.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
