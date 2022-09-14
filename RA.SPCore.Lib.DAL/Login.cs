@@ -10,7 +10,7 @@ namespace RA.SPCore.Lib.DAL
     public class Login
     {
         
-        public static List<BE.Login> GetLogin(string searchText,String connStr)
+        public static List<BE.Login> Authenticate(string searchText,String connStr)
         {
 
             //ConnectionStringSettingsCollection strs = ConfigurationManager.ConnectionStrings;

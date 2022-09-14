@@ -33,7 +33,7 @@ namespace RA.SPCore.Web.API.Controllers
                 return loginList;
             }
             string constr = _configuration["ConnectionStrings:DefaultConnection"];
-            loginList = Lib.BLL.Login.GetLogin(utils.Text,constr );
+            loginList = Lib.BLL.Login.Authenticate(utils.Text,constr );
             return loginList;
 
         }

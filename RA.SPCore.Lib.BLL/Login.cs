@@ -2,9 +2,9 @@
 {
     public class Login
     {
-        public static List<BE.Login> GetLogin(string searchText, string constr)
+        public static List<BE.Login> Authenticate(string searchText, string constr)
         {
-            return Lib.DAL.Login.GetLogin(searchText,constr);
+            return Lib.DAL.Login.Authenticate(searchText,constr);
         }
 
     }
