@@ -54,10 +54,48 @@ namespace RA.SPCore.Web.UI.Controllers
 
         }
 
-        public IActionResult Privacy()
+
+
+        public IActionResult Home2()
         {
             return View();
         }
+
+        [HttpPost]
+        public async Task<List<Login>> getData([FromBody] CommonUtils search)
+        {
+            // Parameters send to the api using CommonUtils model
+            CommonUtils utils = new CommonUtils();
+            utils.Text = search.Text;
+
+            List<Login> loginList = new List<Login>();
+
+            HttpClient client = UIHelper.Initial();
+            // Calling service API
+            try
+            {
+                HttpResponseMessage resNews = await client.PostAsync("api/Service/GetLogin", new StringContent(JsonConvert.SerializeObject(utils), Encoding.UTF8, "application/json"));
+                if (resNews.IsSuccessStatusCode)
+                {
+                    var result = resNews.Content.ReadAsStringAsync().Result;
+                    if (!string.IsNullOrEmpty(result))
+                    {
+                        loginList = JsonConvert.DeserializeObject<List<Login>>(result);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return loginList;
+
+        }
+
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

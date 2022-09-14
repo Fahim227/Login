@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nrvuwBuRekYtLF+flfkDHCaRsFOVBN9uZcnegzy8Aqw=",
+  "Hash": "XQt0oWNMjLAwiUhwue5An3HSysO1dLyBcfMNlfVFr5k=",
   "Source": "RA.SPCore.Web.UI",
   "BasePath": "_content/RA.SPCore.Web.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RA.SPCore.Web.UI\\wwwroot",
       "Source": "RA.SPCore.Web.UI",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RA.SPCore.Web.UI.styles.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RA.SPCore.Web.UI.styles.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "RA.SPCore.Web.UI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RA.SPCore.Web.UI.styles.css"
+      "OriginalItemSpec": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RA.SPCore.Web.UI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RA.SPCore.Web.UI.bundle.scp.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RA.SPCore.Web.UI.bundle.scp.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "RA.SPCore.Web.UI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,64 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RA.SPCore.Web.UI.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RA.SPCore.Web.UI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\css\\J_Reset_StyleSheet.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "css/J_Reset_StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\J_Reset_StyleSheet.css"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\css\\maincss.css",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "css/maincss.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\maincss.css"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\css\\responsive.css",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "css/responsive.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\css\\site.css",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +119,231 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\css\\table_new.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "css/table_new.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\table_new.css"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\favicon.ico",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\index.html",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\index.html"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\main.js",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\main.js"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\main.js.map",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/main.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\main.js.map"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\polyfills.js",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/polyfills.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\polyfills.js"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\polyfills.js.map",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/polyfills.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\polyfills.js.map"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\runtime.js",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/runtime.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\runtime.js"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\runtime.js.map",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/runtime.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\runtime.js.map"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\styles.css",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\styles.css"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\styles.css.map",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/styles.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\styles.css.map"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\vendor.js",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/vendor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\vendor.js"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\dist\\ng-table\\vendor.js.map",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
+      "BasePath": "_content/RA.SPCore.Web.UI",
+      "RelativePath": "dist/ng-table/vendor.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\ng-table\\vendor.js.map"
+    },
+    {
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\favicon.ico",
+      "SourceId": "RA.SPCore.Web.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\js\\site.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "RA.SPCore.Web.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\SECL\\Downloads\\SampleProjectCore\\SampleProjectCore\\RA.SPCore.Web.UI\\wwwroot\\",
+      "ContentRoot": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.UI\\wwwroot\\",
       "BasePath": "_content/RA.SPCore.Web.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

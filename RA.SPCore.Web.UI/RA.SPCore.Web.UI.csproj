@@ -14,4 +14,8 @@
     <ProjectReference Include="..\RA.SPCore.Lib.BE\RA.SPCore.Lib.BE.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Styles\" />
+  </ItemGroup>
+
 </Project>

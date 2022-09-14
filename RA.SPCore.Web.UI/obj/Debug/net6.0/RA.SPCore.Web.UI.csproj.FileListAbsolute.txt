@@ -28,3 +28,39 @@ C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Web.UI\obj
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.pdb
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.genruntimeconfig.cache
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Web.UI\obj\Debug\net6.0\ref\RA.SPCore.Web.UI.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\appsettings.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.staticwebassets.runtime.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.exe
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.deps.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.runtimeconfig.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Web.UI.pdb
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Lib.BE.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.csproj.AssemblyReference.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.AssemblyInfoInputs.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.AssemblyInfo.cs
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.csproj.CoreCompileInputs.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.RazorAssemblyInfo.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.RazorAssemblyInfo.cs
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\scopedcss\bundle\RA.SPCore.Web.UI.styles.css
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\scopedcss\projectbundle\RA.SPCore.Web.UI.bundle.scp.css
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.csproj.CopyComplete
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\refint\RA.SPCore.Web.UI.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.pdb
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\RA.SPCore.Web.UI.genruntimeconfig.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\obj\Debug\net6.0\ref\RA.SPCore.Web.UI.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\angular.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\package-lock.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\package.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\tsconfig.app.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\tsconfig.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Web.UI\bin\Debug\net6.0\ngTable\tsconfig.spec.json

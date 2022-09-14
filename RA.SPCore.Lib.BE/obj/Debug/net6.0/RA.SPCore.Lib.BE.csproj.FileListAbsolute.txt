@@ -10,3 +10,15 @@ C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BE\obj
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BE\obj\Debug\net6.0\refint\RA.SPCore.Lib.BE.dll
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.pdb
 C:\Users\SECL\Downloads\SampleProjectCore\SampleProjectCore\RA.SPCore.Lib.BE\obj\Debug\net6.0\ref\RA.SPCore.Lib.BE.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.deps.json
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.csproj.AssemblyReference.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.AssemblyInfoInputs.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.AssemblyInfo.cs
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.csproj.CoreCompileInputs.cache
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\refint\RA.SPCore.Lib.BE.dll
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\ref\RA.SPCore.Lib.BE.dll
