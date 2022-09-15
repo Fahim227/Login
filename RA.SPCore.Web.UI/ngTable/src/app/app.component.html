@@ -1,0 +1,75 @@
+<div class="card">
+  <div class="card-body">
+    <div class="row">
+      <div class="col-md-4 mb-2">
+      
+    </div>
+      <div class="col-md-4 mb-2">
+        <input type="text" class="mr-1 form-control" [(ngModel)]="search" />
+      </div>
+      <div class="col-md-4 mb-2">
+        <button
+          type="button"
+          role="button"
+          tabIndex="0"
+          class="btn btn-secondary"
+          (click)="getTextList()"
+        >
+        <i *ngIf="progress" aria-hidden=true class="fas fa-spinner fa-pulse float-right"></i>
+        <i *ngIf="!progress" >Search</i>
+          
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card mt-2" *ngIf="paginatedData.length > 0">
+  <div class="card-body">
+    <div class="table-responsive datatab">
+      <table class="table result-table" >
+        <thead>
+          <th >OID</th>
+          <th >Username</th>
+          <th >FirstName</th>
+          <th >LastName</th>
+          <th >Status</th>
+          <th >Email1</th>
+          <th >Email2</th>
+        </thead>
+        <tbody *ngIf="paginatedData.length > 0">
+          <tr *ngFor="let element of paginatedData">
+            <td>
+              <span class="mobile-label">OID</span>
+              <span class="table-data"> {{element.oid}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">Username</span>
+              <span class="table-data"> {{element.username}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">FirstName</span>
+              <span class="table-data"> {{element.firstName}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">LastName</span>
+              <span class="table-data"> {{element.lastName}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">LastName</span>
+              <span class="table-data"> {{element.emailOne}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">LastName</span>
+              <span class="table-data"> {{element.emailTwo}}</span>
+            </td>
+            <td>
+              <span class="mobile-label">LastName</span>
+              <span class="table-data"> {{element.status}}</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
