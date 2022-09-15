@@ -11,10 +11,12 @@ namespace RA.SPCore.Web.UI.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IConfiguration _configuration;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IConfiguration configuration)
         {
             _logger = logger;
+            _configuration = configuration;
         }
 
         public IActionResult Index()
@@ -30,8 +32,10 @@ namespace RA.SPCore.Web.UI.Controllers
             utils.Text = searchString;
 
             List<Login> loginList = new();
-
-            HttpClient client = UIHelper.Initial();
+            string url = _configuration["base_url"];
+            string token_key = _configuration["header_token:tokenOne:key"];
+            string token_value = _configuration["header_token:tokenOne:value"];
+            HttpClient client = UIHelper.Initial(url, token_key, token_value);
             // Calling service API
             try
             {
@@ -70,7 +74,10 @@ namespace RA.SPCore.Web.UI.Controllers
 
             List<Login> loginList = new List<Login>();
 
-            HttpClient client = UIHelper.Initial();
+            string url = _configuration["base_url"];
+            string token_key = _configuration["header_token:tokenOne:key"];
+            string token_value = _configuration["header_token:tokenOne:value"];
+            HttpClient client = UIHelper.Initial(url,token_key,token_value);
             // Calling service API
             try
             {

@@ -22,3 +22,15 @@ D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SP
 D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\refint\RA.SPCore.Lib.BE.dll
 D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.pdb
 D:\Random Access\SampleProjectCore\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\ref\RA.SPCore.Lib.BE.dll
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.deps.json
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.dll
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\bin\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.csproj.AssemblyReference.cache
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.AssemblyInfoInputs.cache
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.AssemblyInfo.cs
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.csproj.CoreCompileInputs.cache
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.dll
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\refint\RA.SPCore.Lib.BE.dll
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\RA.SPCore.Lib.BE.pdb
+D:\Git projects\LoginV2\Login\RA.SPCore.Lib.BE\obj\Debug\net6.0\ref\RA.SPCore.Lib.BE.dll

@@ -2,12 +2,12 @@
 {
     public class UIHelper
     {
-        public static HttpClient Initial()
+        public static HttpClient Initial(string url,string key,string value)
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7066/");
+            client.BaseAddress = new Uri(url);
 
-            client.DefaultRequestHeaders.Add("RA_Token", "1234");
+            client.DefaultRequestHeaders.Add(key, value);
             return client;
         }
     }

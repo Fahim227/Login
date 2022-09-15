@@ -15,7 +15,7 @@
           class="btn btn-secondary"
           (click)="getTextList()"
         >
-        <i *ngIf="progress" aria-hidden=true class="fas fa-spinner fa-pulse float-right"></i>
+        <i *ngIf="progress" aria-hidden=true class=" fas fa-spinner fa-pulse"></i>
         <i *ngIf="!progress" >Search</i>
           
         </button>
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<div class="card mt-2" *ngIf="paginatedData.length > 0">
+<div class="card mt-2" >
   <div class="card-body">
     <div class="table-responsive datatab">
       <table class="table result-table" >
@@ -38,6 +38,12 @@
           <th >Email2</th>
           <th >Status</th>
         </thead>
+        <tbody *ngIf="paginatedData.length == 0">
+          <tr >
+              <td colspan="7" *ngIf="progress" class="text-center"> <h4><i aria-hidden=true class="fas fa-spinner fa-pulse"></i></h4></td>
+              <td colspan="7" *ngIf="!progress" class="text-center"> <h4>No result found</h4></td>
+          </tr>
+      </tbody>
         <tbody *ngIf="paginatedData.length > 0">
           <tr *ngFor="let element of paginatedData">
             <td>

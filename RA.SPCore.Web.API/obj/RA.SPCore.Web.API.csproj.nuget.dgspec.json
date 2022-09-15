@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {}
+    "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {}
   },
   "projects": {
-    "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+    "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
+        "projectUniqueName": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
         "projectName": "RA.SPCore.Lib.BE",
-        "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
-        "packagesPath": "C:\\Users\\jahin.akif\\.nuget\\packages\\",
-        "outputPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\obj\\",
+        "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jahin.akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,25 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
+    "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
+        "projectUniqueName": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
         "projectName": "RA.SPCore.Lib.BLL",
-        "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
-        "packagesPath": "C:\\Users\\jahin.akif\\.nuget\\packages\\",
-        "outputPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\obj\\",
+        "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jahin.akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,11 +82,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
-                "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
               },
-              "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
-                "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj"
+              "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
+                "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj"
               }
             }
           }
@@ -115,8 +106,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -125,25 +115,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
+    "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
+        "projectUniqueName": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
         "projectName": "RA.SPCore.Lib.DAL",
-        "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
-        "packagesPath": "C:\\Users\\jahin.akif\\.nuget\\packages\\",
-        "outputPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.DAL\\obj\\",
+        "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\RA.SPCore.Lib.DAL.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jahin.akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,8 +143,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
-                "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
               }
             }
           }
@@ -192,8 +178,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -202,25 +187,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {
+    "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
+        "projectUniqueName": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
         "projectName": "RA.SPCore.Web.API",
-        "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
-        "packagesPath": "C:\\Users\\jahin.akif\\.nuget\\packages\\",
-        "outputPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Web.API\\obj\\",
+        "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Web.API\\RA.SPCore.Web.API.csproj",
+        "packagesPath": "C:\\Users\\SECL\\.nuget\\packages\\",
+        "outputPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Web.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jahin.akif\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SECL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -234,11 +215,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
-                "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
+              "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj": {
+                "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BE\\RA.SPCore.Lib.BE.csproj"
               },
-              "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
-                "projectPath": "D:\\Random Access\\SampleProjectCore\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj"
+              "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj": {
+                "projectPath": "D:\\Git projects\\LoginV2\\Login\\RA.SPCore.Lib.BLL\\RA.SPCore.Lib.BLL.csproj"
               }
             }
           }
@@ -264,8 +245,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -277,7 +257,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

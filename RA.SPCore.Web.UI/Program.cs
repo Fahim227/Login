@@ -32,6 +32,18 @@ app.UseEndpoints(endpoints =>
         name: "getData",
         pattern: "getData",
         defaults: new { controller = "Home", action = "getData" });
+
+    endpoints.MapControllerRoute(
+        name: "Home",
+        pattern: "Home2",
+        defaults: new { controller = "Home", action = "Home2" });
+
+    endpoints.MapControllerRoute(
+        name: "Home",
+        pattern: "Home",
+        defaults: new { controller = "Home", action = "Index" });
 }
 );
+
+
 app.Run();
